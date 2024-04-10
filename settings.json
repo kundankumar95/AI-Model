@@ -1,0 +1,34 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "cSpell.words": [
+        "argmax",
+        "argmin",
+        "argpartition",
+        "cmap",
+        "crossentropy",
+        "deepface",
+        "dtype",
+        "generationtext",
+        "generatortext",
+        "googletrans",
+        "imageclassifier",
+        "imageedit",
+        "imread",
+        "imshow",
+        "infront",
+        "lemmatize",
+        "Lemmatizer",
+        "mainmodel",
+        "Perplexitychatengine",
+        "softmax",
+        "Succesfully",
+        "Swarnavo",
+        "wordnet",
+        "xlabel",
+        "xticks",
+        "yticks"
+    ]
+}
